@@ -1,3 +1,3 @@
 # Khan-Academy-SQL
-responses to the challenges from the link below: 
+My responses to the challenges and excercises of the link below: 
 https://www.khanacademy.org/computing/computer-programming/sql
